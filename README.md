@@ -15,7 +15,7 @@ Welcome! I build web applications and enjoy working across user interfaces, APIs
 
 ## A little about me
 
-I'm a full-stack developer from India, with a focus on **Angular, JavaScript, TypeScript, and Java**. My public projects include Angular data visualization demos and a Node.js API project.
+I'm a full-stack developer from India, currently based in **Poland**, with a focus on **Angular, JavaScript, TypeScript, and Java**. My public projects include Angular data visualization demos and a Node.js API project.
 
 - **Talk to me about:** Angular applications, JavaScript and TypeScript, Java, and frontend development.
 - **Technical interests:** data-rich interfaces, backend APIs, and cloud tooling.
@@ -45,7 +45,7 @@ A few starting points for exploring my work:
 
 ## GitHub activity & metrics
 
-Explore my [contribution history](https://github.com/vinayjangir7?tab=overview), [pull requests](https://github.com/pulls?q=is%3Apr%20author%3Avinayjangir7), and [issues](https://github.com/issues?q=is%3Aissue%20author%3Avinayjangir7) for more context about my activity.
+Explore my [contribution history](https://github.com/vinayjangir7?tab=overview), [pull requests](https://github.com/search?q=author%3Avinayjangir7%20is%3Apr&type=pullrequests), and [issues](https://github.com/search?q=author%3Avinayjangir7%20is%3Aissue&type=issues) for more context about my activity.
 
 <a href="https://github.com/vinayjangir7?tab=overview">
   <img src="https://github-readme-stats.vercel.app/api?username=vinayjangir7&show_icons=true&hide_rank=true&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="Vinay's GitHub statistics, including stars, commits, pull requests, and issues" width="495" />
@@ -59,6 +59,6 @@ Explore my [contribution history](https://github.com/vinayjangir7?tab=overview),
 
 ## Let's connect
 
-Have a question about a project or want to exchange ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/vinayjangir), send me an [email](mailto:vinayjangir7@gmail.com), or find me on [X](https://twitter.com/vinayjangir71).
+Have a question about a project or want to exchange ideas? Reach out on [LinkedIn](https://www.linkedin.com/in/vinayjangir), send me an [email](mailto:vinayjangir7@gmail.com), or find me on [X](https://x.com/vinayjangir71).
 
 Thanks for stopping by!
